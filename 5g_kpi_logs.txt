@@ -1,0 +1,4 @@
+[2025-06-13 10:05:23] gNodeB_ID=501 CellID=10 RRC_Conn_Success=98 RRC_Conn_Attempts=100 Throughput_DL=112.5Mbps Latency=25ms
+[2025-06-13 10:10:23] gNodeB_ID=501 CellID=10 RRC_Conn_Success=95 RRC_Conn_Attempts=100 Throughput_DL=109.0Mbps Latency=30ms
+[2025-06-13 10:15:23] gNodeB_ID=501 CellID=10 RRC_Conn_Success=100 RRC_Conn_Attempts=100 Throughput_DL=120.1Mbps Latency=20ms
+[2025-06-13 10:20:23] gNodeB_ID=502 CellID=12 RRC_Conn_Success=85 RRC_Conn_Attempts=100 Throughput_DL=98.7Mbps Latency=35ms
